@@ -53,7 +53,7 @@ const SignIn = () => {
           onClick={() => signIn("google")}
           className="bg-pink-500 w-max m-auto px-6 py-2 rounded text-white text-sm font-normal"
         >
-          Submit with google
+          Connect with google
         </button>
       </div>
     </div>
